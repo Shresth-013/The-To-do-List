@@ -169,7 +169,7 @@ ul::-webkit-scrollbar-thumb {
 }
 
 #deleteButton:hover {
-  background-color: var(--accent); /* Use your pink accent */
+  background-color: var(--accent); 
   color: #fff;
   border-color: var(--accent);
   transform: scale(1.05);
